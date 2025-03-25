@@ -1,6 +1,6 @@
 module github.com/usbarmory/armory-boot
 
-go 1.23.6
+go 1.23
 
 require (
 	github.com/dsoprea/go-ext4 v0.0.0-20190528173430-c13b09fc0ff8
